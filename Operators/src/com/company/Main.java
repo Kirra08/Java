@@ -50,7 +50,7 @@ public class Main<topScore> {
         }
 
         int topScore = 80;
-        if (topScore >= 100) {
+        if (topScore >= 80) {
             System.out.println("You got the high score!");
         }
 
