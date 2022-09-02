@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 public class ArrayListNormalPractice {
     public static void main(String[] args) {
-        // デジカメオブジェクトの宣言と生成
+        
         DigitalCamera myCamera = new DigitalCamera();
         // デジカメにて撮影
         myCamera.takePicture("子猫");
