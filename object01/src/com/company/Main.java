@@ -3,6 +3,7 @@ import java.io.*;
 
 public class Main {
     public static void main(String[] args) {
+        //main
         try {
             FileReader file = new FileReader(args[0]);//①
             BufferedReader buff = new BufferedReader(file);
