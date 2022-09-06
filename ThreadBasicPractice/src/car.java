@@ -15,7 +15,7 @@ public class car {
         } catch(InterruptedException e) {
             e.printStackTrace();
         }
-        System.out.println("レースが終了しました");
+        System.out.println("レースが終了しました。");
     }
 }
 // RacingCarクラス
