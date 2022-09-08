@@ -8,7 +8,6 @@ public class AbstractNormalPractice {
         fwd.kickBall();
         fwd.catchBall();
         System.out.println();
-        // ゴールキーパーオブジェクトの生成
         SoccerPlayer keeper = new GoalKeeper("川島", 12);
         // 自己紹介
         System.out.println(keeper);
