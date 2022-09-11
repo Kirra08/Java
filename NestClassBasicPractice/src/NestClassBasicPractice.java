@@ -2,7 +2,7 @@ public class NestClassBasicPractice {
     public static void main(String[] args) {
         // 学校の設立
         School school = new School("Java学園");
-        // 生徒が続々と入学
+        // 生徒が入学
         school.enterSchool("春日");
         school.enterSchool("若林");
         school.enterSchool("遠藤");
