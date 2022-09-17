@@ -40,8 +40,8 @@ public class CompareBasicPractice {
 // 小学生クラス
 class SchoolChild implements Comparable<SchoolChild> {
     private int no;
-    private String name;        // 名前
-    private double height;        // 身長
+    private String name;
+    private double height;
     // コンストラクタ
     public SchoolChild(final int no, final String name, final double height) {
         this.no = no;
