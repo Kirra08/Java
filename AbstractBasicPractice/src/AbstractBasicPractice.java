@@ -9,7 +9,6 @@ public class AbstractBasicPractice {
         animals[1] = new Cat();
         animals[2] = new Bird();
         // forループを使って動物たち配列変数を順にみていき、
-        // 各動物の歌うsingメソッドの呼び出し
         for(int i = 0; i < animals.length; i++) {
             animals[i].sing();
         }
